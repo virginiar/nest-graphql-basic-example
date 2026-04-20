@@ -26,3 +26,9 @@ $ npm run build
 $ npm run start:prod
 ```
 
+## Librerías necesarias
+
+Las clases Validator y Transformer necesarias para el ValidationPipe se instalan con:
+```bash
+$ npm i class-validator class-transformer
+```
